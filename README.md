@@ -1,5 +1,8 @@
-## Além das Cordas 
+<div align="center">
+  <img src="fotos/alemdascordas.jpg" width="50%" alt="Logo"> 
+</div>
 
+## Além das Cordas 
 **Um site dedicado à ciência, história e curiosidades sobre o violão.**
 
 ---
